@@ -13,7 +13,7 @@ import nodes
 
 MANIFEST = {
     "name": "JJKUtil",
-    "version": (0,0,1),
+    "version": (0,1,1),
     "author": "Jens Jakob Kramhøft",
     "project": "https://github.com/jjkramhoeft/util-nodes-for-comfyui",
     "description": "A small node suite for ComfyUI",
